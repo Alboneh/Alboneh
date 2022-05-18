@@ -1,10 +1,14 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Ibrahim Bin Purwanto**
+Hello, my name is **Ibrahim Bin Purwanto**
 
-Saya seorang mahasiswa dari **Universitas Amikom Yogyakarta** 
+Im a student from **Amikom University Yogyakarta**  who is currently studying in 6th semester, 
+i have develop interest on IT since highschool and been training IT skill like 
+problem solving to support my competency in programming.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ibrahim-bin-purwanto-943636234) ku ya.
+i been learning about full stack web and android development in college and already creating a couple project with it
+
+if u interested learning more about me u can follow my [Linkedin](https://www.linkedin.com/in/ibrahim-bin-purwanto-943636234).
 
 
 <p align="left">
