@@ -1,11 +1,10 @@
-### 
-Hi there 👋
+# Halo semua! 
 
-<div id="header" align="center">
-  Hi there 👋
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ibrahim.
+Perkenalkan nama saya **Ibrahim Bin Purwanto**.\
+
+Saya seorang mahasiswa dar **Universitas Amikom Yogyakarta** .\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ibrahim-bin-purwanto-943636234)ku ya.
 
 <!--
 **Alboneh/Alboneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
