@@ -16,7 +16,7 @@
   <li>💼 <strong>2+ Years Experience @ AWC Digital as Junior Programmer</strong></li>
   <li>🌱 Currently learning <strong>advanced backend architectures</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/Alboneh?tab=repositories">my repositories</a></li>
-  <li>📫 How to reach me: <strong>ibrahim.binpurwanto@gmail.com</strong></li>
+  <li>📫 How to reach me: <strong>abahimyaim@gmail.com</strong></li>
 </ul>
 
 <h2>🛠️ Tech Stack</h2>
