@@ -1,34 +1,38 @@
-# Halo.....!
+🚀 Full Stack Developer | Web & Mobile Specialist
+🎓 Graduate of Amikom University Yogyakarta | 💼 2+ Years of Experience @ AWC Digital
 
-Hello, my name is **Ibrahim Bin Purwanto**
+Passionate about building scalable web & mobile applications, I now bring professional experience in Angular, JavaScript, Golang, and PHP. My journey has evolved from academic projects to real-world software solutions.
 
-Im a student from **Amikom University Yogyakarta**  who is currently studying in 6th semester, 
-i have develop interest on IT since highschool and been training IT skill like 
-problem solving to support my competency in programming.
+💼 Professional Experience
+Junior Programmer @ AWC Digital (2 Years)
+✔ Developed and maintained frontend applications using Angular & JavaScript
+✔ Built RESTful APIs & backend services in Golang & PHP
+✔ Collaborated in Agile teams to deliver high-quality software
+✔ Optimized performance & fixed critical bugs in production systems
 
-i been learning about full stack web and android development in college and already creating a couple project with it
+🛠️ Core Skills
+Frontend:
 
-if u interested learning more about me u can follow my [Linkedin](https://www.linkedin.com/in/ibrahim-bin-purwanto-943636234).
+Angular | JavaScript/TypeScript | HTML/CSS | Responsive Design
 
+Backend:
 
-<p align="left">
-<a href="https://github.com/Alboneh">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alboneh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alboneh&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+Golang | PHP (Laravel/CodeIgniter) | Node.js
 
-<!--
-**Alboneh/Alboneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RESTful APIs | Microservices | Database Design
 
-Here are some ideas to get you started:
+Mobile & Others:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Android (Kotlin/Java) | Firebase | Cloud Integration
+
+🔨 Recent Projects & Contributions
+📌 E-Commerce Backend (Golang) – High-performance API for inventory & payments
+📌 Admin Dashboard (Angular) – Real-time analytics & user management
+📌 Mobile POS App (Kotlin) – Offline-first sales solution for SMEs
+
+📈 GitHub Stats
+<p align="left"> <a href="https://github.com/Alboneh"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alboneh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alboneh&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
+📫 Let’s Connect!
+LinkedIn | Email | Portfolio (optional link)
+
+🔍 Open to new opportunities in Full-Stack or Backend Development!
